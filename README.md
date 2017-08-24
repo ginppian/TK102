@@ -127,7 +127,7 @@ TK102-2 Tracker GPS
 * Up123456 webgprs,webgprs
 
 <p align="justify">
-	Continuamos con
+	Continuamos con:
 </p>
 
 * Gprs123456
@@ -147,6 +147,10 @@ TK102-2 Tracker GPS
 </p>
 
 * Imei123456
+
+<p align="center">
+	<img src="https://github.com/ginppian/TK102/blob/master/imgs/img6.jpeg" width="680" height="330">
+</p>
 
 <p align="justify">
 	Cada que tiempo se enviará
