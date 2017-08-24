@@ -10,7 +10,7 @@ TK102-2 Tracker GPS
 </p>
 
 <p align="justify">
-	El presente es una implementación de la plataforma <a href="https://www.traccar.org/">Traccar</a> con un dispositivo GPS. Previamente configuramos nuestra <a href="https://github.com/ginppian/Traccar2.0">plataforma</a>.
+	El presente es una implementación de la plataforma <a href="https://www.traccar.org/">Traccar</a> con un dispositivo GPS. Previamente configuramos nuestra <a href="https://github.com/ginppian/Traccar2.0">implementación</a>.
 </p>
 
 
@@ -34,16 +34,24 @@ TK102-2 Tracker GPS
 		<a href="https://articulo.mercadolibre.com.mx/MLM-585446943-localizador-gps-tracker-tk102-rastreador-personal-_JM?source=gps">Mercadolibre</a>
 	</p>
 </li>
-o
 <li>
 	<p align="justify">
 	<a href="https://spanish.alibaba.com/trade/search?SearchText=tk102&selectedTab=products">Alibaba</a>
 </p>
 </li>
+<li>
+	<p align="justify">
+	<a href="https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.Xtk102-2.TRS0&_nkw=tk102-2&_sacat=0">Ebay</a>
+</p>
+</li>
+<li>
+	<p align="justify">
+	<a href="https://www.amazon.es/Localizador-port%C3%A1til-Xexun-TK-102-2-MicroSD/dp/B00S9Y83OE">Amazon</a>
+</p>
+</li>
 </ul>
 
 ## Desarrollo
-
 
 <p align="justify">
 	Clones Chinos:
@@ -70,6 +78,8 @@ o
 * <a href="https://www.youtube.com/watch?v=7PskGCE_sUc">Youtube - GPS TK-102 Live Real time Tracking 2G GRPS Setup DJI Phantom Drone</a>
 
 * <a href="https://www.traccar.org/devices/">Supported Devices</a>
+
+* <a href="http://www.securamente.com/como-instalar-y-configurar-un-localizador-de-gps-configuracion-basica-por-gprs/">Como instalar y configurar un localizador de GPS: Configuración básica por GPRS</a>
 
 ## Interesantes
 
