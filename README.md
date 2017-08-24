@@ -13,8 +13,38 @@ TK102-2 Tracker GPS
 	El presente es una implementación de la plataforma <a href="https://www.traccar.org/">Traccar</a> con un dispositivo GPS. Previamente configuramos nuestra <a href="https://github.com/ginppian/Traccar2.0">implementación</a>.
 </p>
 
+## Prueba
+
+<tr>
+     <td align="center">
+      <table width="100%" border="1">
+       <tbody><tr><td align="center">
+<table width="80%" cellspacing="0" cellpadding="1" border="0" class="style3">
+  <tbody><tr><td><b>Modelo</b></td><td align="right">XEXUN TK102-2</td></tr>
+  <tr><td><b>Red</b></td><td align="right">GSM/GPRS</td></tr>
+  <tr><td><b>Banda</b></td><td align="right">850/900/1800/1900Mhz</td></tr>
+  <tr><td><b>Chip GPS</b></td><td align="right">SIRF3</td></tr>
+   <tr><td><b>Modulo GSM/GPRS</b></td><td align="right">Simcom SIM900</td></tr>
+  <tr><td><b>GPS sensitivity</b></td><td align="right">-159dBm</td></tr>
+  <tr><td><b>GPS accuracy</b></td><td align="right">5m</td></tr>
+  <tr><td><b>Time to first fix</b></td><td align="right">cold 45s, warm 35s, hot 1s</td></tr>
+  <tr><td><b>Battery</b></td><td align="right">Recargable 3.7V 1000mAh Li-ion</td></tr>
+  <tr><td><b>Autonomia</b></td><td align="right">Standby 80 horas</td></tr>
+  <tr><td><b>Operation temperature</b></td><td align="right">-20ºC a 55ºC</td></tr>
+  <tr><td><b>Operation humidity</b></td><td align="right">5%--95%</td></tr>
+  <tr><td><b>Dimensiones</b></td><td align="right">64x46x17mm</td></tr>
+  <tr><td><b>Peso</b></td><td align="right">50gr</td></tr>
+  <tr><td><b> </b></td><td align="right"> </td></tr>
+  </tbody></table>       </td></tr>
+      </tbody></table>
+     </td>
+    </tr>
 
 ## Técnico
+
+<p align="justify">
+	El dispositivo 
+</p>
 
 <p align="justify">
 	El dispositivo se compro en esta tienda:
