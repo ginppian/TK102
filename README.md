@@ -15,6 +15,7 @@ TK102-2 Tracker GPS
 
 ## Prueba
 
+<p justify="center">
 <table width="80%" cellspacing="0" cellpadding="1" border="0" class="style3">
   <tbody><tr><td><b>Modelo</b></td><td align="right">XEXUN TK102-2</td></tr>
   <tr><td><b>Red</b></td><td align="right">GSM/GPRS</td></tr>
@@ -34,7 +35,7 @@ TK102-2 Tracker GPS
   </tbody></table>       </td></tr>
       </tbody></table>
      </td>
-
+</p>
 
 ## Técnico
 
