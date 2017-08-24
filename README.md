@@ -42,18 +42,6 @@ o
 </li>
 </ul>
 
-## Fuente
-
-* <a href="https://localizadorgpstracker.com.mx/blog/guias/170-guia-manual-de-localizador-gps-tracker-102">Guía del Manual de Localizador GPS Tracker 102</a>
-
-* <a href="https://localizadorgpstracker.com.mx/comprar/manual-tk-102">Manual en Video de Localizador GPS Tracker TK 102</a>
-
-* <a href="http://www.localizadorgpstracker.com.mx/manualtk102EN-1.pdf">Manual TK102EN</a>
-
-* <a href="https://www.youtube.com/watch?v=7PskGCE_sUc">Youtube - GPS TK-102 Live Real time Tracking 2G GRPS Setup DJI Phantom Drone</a>
-
-* <a href="https://www.traccar.org/devices/">Supported Devices</a>
-
 ## Desarrollo
 
 
@@ -68,9 +56,20 @@ o
 </ol>
 
 <p align="justify">
-	En nuestro caso usamos el puerto *5001* para asociarlo con **Traccar**
+	En nuestro caso usamos el puerto <b>5001</b> para asociarlo con <i>Traccar</i>
 </p>
 
+## Fuente
+
+* <a href="https://localizadorgpstracker.com.mx/blog/guias/170-guia-manual-de-localizador-gps-tracker-102">Guía del Manual de Localizador GPS Tracker 102</a>
+
+* <a href="https://localizadorgpstracker.com.mx/comprar/manual-tk-102">Manual en Video de Localizador GPS Tracker TK 102</a>
+
+* <a href="http://www.localizadorgpstracker.com.mx/manualtk102EN-1.pdf">Manual TK102EN</a>
+
+* <a href="https://www.youtube.com/watch?v=7PskGCE_sUc">Youtube - GPS TK-102 Live Real time Tracking 2G GRPS Setup DJI Phantom Drone</a>
+
+* <a href="https://www.traccar.org/devices/">Supported Devices</a>
 
 ## Interesantes
 
