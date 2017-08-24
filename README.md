@@ -200,3 +200,7 @@ TK102-2 Tracker GPS
 * <a href="http://www.opengts.org/">OpenGTS Project</a>
 
 * <a href="https://articulo.mercadolibre.com.mx/MLM-560437507-gps-tracker-plataforma-web-rastreo-localizacion-licencia1mes-_JM?source=gps">Renta Mensual</a>
+
+## Contacto
+
+* Tw: @ginppian
