@@ -86,6 +86,11 @@ TK102-2 Tracker GPS
 	Por defecto el <i>TK102</i> viene previamente configurado, si marcamos sonara dos pitidos y se escuchará como ocupado, posterior a eso recibiremos un <i>SMS</i> con las coordenadas.
 </p>
 
+
+<p align="justify">
+	Para comandos más especificos podemos consultar los manuales o videos <a href="https://localizadorgpstracker.com.mx/comprar/manual-tk-102">aquí</a>.
+</p>
+
 ### Asociar al servidor
 
 * Begin123456
