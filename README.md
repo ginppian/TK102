@@ -107,17 +107,7 @@ TK102-2 Tracker GPS
 </p>
 
 <p align="justify">
-	En mi caso aun que pensé haber comprado un origial y el puerto marcado en <a href="https://www.traccar.org/devices/">Supported Devices</a> que es el <i>5006</i> no funcionó hay que considerar su documentación para <a href="https://www.traccar.org/clones/">clones chinos</a>.
-</p>
-
-<ol>
-	<li>
-		<a href="https://www.traccar.org/clones/">Lista Puertos</a>
-	</li>
-</ol>
-
-<p align="justify">
-	En nuestro caso usamos el puerto <b>5001</b> para asociarlo con <i>Traccar</i>.
+	Aun que pensé haber comprado un origial y el puerto marcado en <a href="https://www.traccar.org/devices/">Traccar Supported Devices</a> que es el <i>5006</i> no funcionó. Debemos considerar su documentación para <a href="https://www.traccar.org/clones/">clones chinos</a>.
 </p>
 
 <p align="justify">
