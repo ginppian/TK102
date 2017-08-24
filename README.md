@@ -170,7 +170,7 @@ TK102-2 Tracker GPS
 
 * Save060s***n123456
 
-##### PD: Los comandos pueden variar entre idiomas, por favor consulte el <a href="https://localizadorgpstracker.com.mx/blog/guias/170-guia-manual-de-localizador-gps-tracker-102">manual en español</a>
+##### PD: Los comandos pueden variar entre idiomas, por favor consulte el <a href="https://localizadorgpstracker.com.mx/blog/guias/170-guia-manual-de-localizador-gps-tracker-102">manual en español</a>.
 
 ### Uso de la Micro SD
 
@@ -178,6 +178,11 @@ TK102-2 Tracker GPS
 	<img src="https://github.com/ginppian/TK102/blob/master/imgs/img4.jpeg" width="360" height="640">
 </p>
 
+## Anotaciones
+
+<p align="justify">
+	En mi caso aun que el <i>GPS TK102</i> tiene un boton de apagado. Después de aproximadamente 8 minutos se volvia a prender y continuaba enviando ubicación.
+</p>
 
 ## Fuente
 
