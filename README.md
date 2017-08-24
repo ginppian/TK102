@@ -64,7 +64,7 @@ TK102-2 Tracker GPS
 </ol>
 
 <p align="justify">
-	En nuestro caso usamos el puerto <b>5001</b> para asociarlo con <i>Traccar</i>
+	En nuestro caso usamos el puerto <b>5001</b> para asociarlo con <i>Traccar</i>.
 </p>
 
 ## Fuente
