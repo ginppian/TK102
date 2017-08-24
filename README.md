@@ -10,7 +10,7 @@ TK102-2 Tracker GPS
 </p>
 
 <p align="justify">
-	El presente es una implementación de la plataforma <a href="https://www.traccar.org/">Traccar</a> con un dispositivo GPS. Previamente configuramos nuestra <a href="https://github.com/ginppian/Traccar2.0">implementación</a>.
+	El presente es una implementación de la plataforma <a href="https://www.traccar.org/">Traccar</a> con un dispositivo GPS. Previamente configuramos nuestra plataforma. <i>Para ver más</i><a href="https://github.com/ginppian/Traccar2.0">aquí</a>.
 </p>
 
 ## Técnico
