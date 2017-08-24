@@ -38,10 +38,6 @@ TK102-2 Tracker GPS
 ## Obtener
 
 <p align="justify">
-	El dispositivo 
-</p>
-
-<p align="justify">
 	El dispositivo se compro en esta tienda:
 </p>
 
@@ -77,6 +73,10 @@ TK102-2 Tracker GPS
 </ul>
 
 ## Comandos
+
+<p align="center">
+	Begin123456
+</p>
 
 ## Puertos
 
