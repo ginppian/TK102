@@ -87,6 +87,10 @@ TK102-2 Tracker GPS
 </p>
 
 
+<p align="center">
+	<img src="https://github.com/ginppian/TK102/blob/master/imgs/img5.jpeg" width="320" height="568">
+</p>
+
 <p align="justify">
 	Para comandos más especificos podemos consultar los manuales o videos <a href="https://localizadorgpstracker.com.mx/comprar/manual-tk-102">aquí</a>.
 </p>
@@ -95,6 +99,26 @@ TK102-2 Tracker GPS
 
 * Begin123456
 * Adminip123456 138.68.5.186 5001
+
+#### Puertos
+
+<p align="justify">
+	En nuestro caso usamos el puerto <i>5001</i> pero debemos intentar con los demás puertos para los clones Chinos.
+</p>
+
+<p align="justify">
+	En mi caso aun que pensé haber comprado un origial y el puerto marcado en <a href="https://www.traccar.org/devices/">Supported Devices</a> que es el <i>5006</i> no funcionó hay que considerar su documentación para <a href="https://www.traccar.org/clones/">clones chinos</a>.
+</p>
+
+<ol>
+	<li>
+		<a href="https://www.traccar.org/clones/">Lista Puertos</a>
+	</li>
+</ol>
+
+<p align="justify">
+	En nuestro caso usamos el puerto <b>5001</b> para asociarlo con <i>Traccar</i>.
+</p>
 
 <p align="justify">
 	Sí el chip y es Telcel:
@@ -148,28 +172,12 @@ TK102-2 Tracker GPS
 
 * Save060s***n123456
 
-### Micro SD
+### Uso de la Micro SD
 
 <p align="center">
 	<img src="https://github.com/ginppian/TK102/blob/master/imgs/img4.jpeg" width="360" height="640">
 </p>
 
-
-## Puertos
-
-<p align="justify">
-	Clones Chinos:
-</p>
-
-<ol>
-	<li>
-		<a href="https://www.traccar.org/clones/">Lista Puertos</a>
-	</li>
-</ol>
-
-<p align="justify">
-	En nuestro caso usamos el puerto <b>5001</b> para asociarlo con <i>Traccar</i>.
-</p>
 
 ## Fuente
 
