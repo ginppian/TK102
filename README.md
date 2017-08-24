@@ -4,18 +4,17 @@ TK102-2 Tracker GPS
 ## Descripción
 
 <p align="center">
-	<img src="" width="320" height="426">
-	<img src="" width="320" height="426">
-	<img src="" width="320" height="426">
+	<img src="https://github.com/ginppian/TK102/blob/master/imgs/img1.jpeg" width="320" height="426">
+	<img src="https://github.com/ginppian/TK102/blob/master/imgs/img2.jpeg" width="320" height="426">
+	<img src="https://github.com/ginppian/TK102/blob/master/imgs/img3.jpeg" width="320" height="426">
 </p>
 
 <p align="justify">
 	El presente es una implementación de la plataforma <a href="https://www.traccar.org/">Traccar</a> con un dispositivo GPS. Previamente configuramos nuestra <a href="https://github.com/ginppian/Traccar2.0">implementación</a>.
 </p>
 
-## Prueba
+## Técnico
 
-<p justify="center">
 <table width="80%" cellspacing="0" cellpadding="1" border="0" class="style3">
   <tbody><tr><td><b>Modelo</b></td><td align="right">XEXUN TK102-2</td></tr>
   <tr><td><b>Red</b></td><td align="right">GSM/GPRS</td></tr>
@@ -35,9 +34,8 @@ TK102-2 Tracker GPS
   </tbody></table>       </td></tr>
       </tbody></table>
      </td>
-</p>
 
-## Técnico
+## Obtener
 
 <p align="justify">
 	El dispositivo 
@@ -78,7 +76,9 @@ TK102-2 Tracker GPS
 </li>
 </ul>
 
-## Desarrollo
+## Comandos
+
+## Puertos
 
 <p align="justify">
 	Clones Chinos:
