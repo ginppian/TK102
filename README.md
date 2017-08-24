@@ -74,9 +74,61 @@ TK102-2 Tracker GPS
 
 ## Comandos
 
-<p align="center">
-	Begin123456
+* Begin123456
+* Adminip123456 138.68.5.186 5001
+
+<p align="justify">
+	Sí el chip y es Telcel:
 </p>
+
+* Apn123456 internet.itelcel.com
+
+* Up123456 webgprs, webgprs2002
+
+<p align="justify">
+	Sí es Movistar:
+</p>
+
+* Apn123456 internet.movistar.mx
+
+* Up123456 webgprs,webgprs
+
+* Gprs123456
+
+* Tracker123456
+
+* Time zone12345678 -7
+
+<p align="justify">
+	Para ver los parámetros
+</p>
+
+* Check123456
+
+<p align="justify">
+	Para saber el IMAEI y darlo de alta en Traccar
+</p>
+
+* Imei123456
+
+<p align="justify">
+	El la frecuencia que se enviará
+</p>
+
+* Fix060s030m***n123456
+
+<p align="justify">
+	Sino lo agarra probamos con este
+</p>
+
+* Fix060s***n123456
+
+<p align="justify">
+	Por último
+</p>
+
+* Save060s***n123456
+
 
 ## Puertos
 
