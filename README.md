@@ -149,7 +149,7 @@ TK102-2 Tracker GPS
 * Imei123456
 
 <p align="center">
-	<img src="https://github.com/ginppian/TK102/blob/master/imgs/img6.jpeg" width="680" height="330">
+	<img src="https://github.com/ginppian/TK102/blob/master/imgs/img6.png" width="680" height="330">
 </p>
 
 <p align="justify">
