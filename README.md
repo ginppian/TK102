@@ -10,7 +10,7 @@ TK102-2 Tracker GPS
 </p>
 
 <p align="justify">
-	El presente es una implementación de la plataforma <a href="https://www.traccar.org/">Traccar</a> con un dispositivo GPS. Previamente configuramos nuestra plataforma. <i>Para ver más</i><a href="https://github.com/ginppian/Traccar2.0">aquí</a>.
+	El presente es una implementación de la plataforma <a href="https://www.traccar.org/">Traccar</a> con un dispositivo GPS. Previamente configuramos nuestra plataforma. <i>Para ver más </i><a href="https://github.com/ginppian/Traccar2.0">aquí</a>.
 </p>
 
 ## Técnico
@@ -34,6 +34,10 @@ TK102-2 Tracker GPS
   </tbody></table>       </td></tr>
       </tbody></table>
      </td>
+
+<p align="justify">
+	Se debe contar con un chip con crédito, se debe verificar que el chip no tenga el crédito congelado y la ranura del chip es del tamaño de un SIM convencional si el chip es nano o micro, se recomienda usar un adaptador.
+</p>
 
 ## Obtener
 
@@ -73,6 +77,16 @@ TK102-2 Tracker GPS
 </ul>
 
 ## Comandos
+
+<p align="justify">
+	Estos comandos se envian via <i>SMS</i> al número del chip del celular.
+</p>
+
+<p align="justify">
+	Por defecto el <i>TK102</i> viene previamente configurado, si marcamos sonara dos pitidos y se escuchará como ocupado, posterior a eso recibiremos un <i>SMS</i> con las coordenadas.
+</p>
+
+### Asociar al servidor
 
 * Begin123456
 * Adminip123456 138.68.5.186 5001
@@ -128,6 +142,12 @@ TK102-2 Tracker GPS
 </p>
 
 * Save060s***n123456
+
+### Micro SD
+
+<p align="center">
+	<img src="https://github.com/ginppian/TK102/blob/master/imgs/img4.jpeg" width="360" height="640">
+</p>
 
 
 ## Puertos
