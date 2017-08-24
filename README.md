@@ -145,7 +145,7 @@ TK102-2 Tracker GPS
 * Imei123456
 
 <p align="justify">
-	El la frecuencia que se enviará
+	Cada que tiempo se enviará
 </p>
 
 * Fix060s030m***n123456
@@ -183,7 +183,7 @@ TK102-2 Tracker GPS
 
 * <a href="http://www.securamente.com/como-instalar-y-configurar-un-localizador-de-gps-configuracion-basica-por-gprs/">Como instalar y configurar un localizador de GPS: Configuración básica por GPRS</a>
 
-## Interesantes
+## Otros
 
 * <a href="https://www.youtube.com/watch?v=9rQPqezkWgs">Youtube - Instalacion GPS Tk103 Instalacion Parte 1</a>
 
